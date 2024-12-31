@@ -28,7 +28,7 @@
 				],
 				"name": "updateString",
 				"outputs": [],
-				"stateMutability": "nonpayable",
+				"stateMutability": "payable",
 				"type": "function"
 			}
 		],
@@ -60,11 +60,11 @@
 	},
 	"sources": {
 		"Contracts/SampleContract.sol": {
-			"keccak256": "0x98f9d29d31a7c22c3d1c53b6f79ed882de3e29e7c99f8fc35d7de9f2b5a16ce9",
+			"keccak256": "0x1bc8dc675327798ce4d853f87569593f9a3458b085304bd9d06a861ded93e1e8",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://d32dcb3074e0048e5118aef2d34a03425e25c415a50d81be5634f692b1a0b908",
-				"dweb:/ipfs/QmXiC2gL7tYRuf5g6rr3qykX9F3pSR9iREDwqzcyNHEmey"
+				"bzz-raw://263b1ce0334884ac59db024e37be9847fe1987306bbe97af5dfacb71c20d7a7f",
+				"dweb:/ipfs/QmbG6CMtyjSV2FpesLBiWzRh1EuUydjNPPGcqVsMBz4kvo"
 			]
 		}
 	},
